@@ -1,0 +1,5 @@
+﻿Este juego corresponde a una práctica del curso de Programador Java.  
+Es una adaptación del ejercicio programado originalmente por Rodrigo Perugachi (frlx).
+Este código esta libre para cualquier usuario que lo quiera modificar. 
+Puede contactar al autor en rodrigoperugachi@gmail.com, frlx.wordpress.com@gmail.com
+

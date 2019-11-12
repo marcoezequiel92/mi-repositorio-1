@@ -1,0 +1,14 @@
+﻿Este juego consiste en adivinar una palabra que aparece en la pantalla con asteriscos. 
+Cada asterisco corresponde a una letra, por lo que la palabra tendrá tantas letras como asteriscos. 
+La letra se puede adivinar pulsando el botón correspondiente en el que se cree que se encuentra oculta. 
+Si se acierta y está incluida en la palabra, el asterisco correspondiente a ésta, se transformará en esa letra. 
+Sino, no habrá ningún cambio en la palabra secreta y se le añadirá un miembro de su cuerpo al muñeco ahorcado. 
+De esta forma, si el muñeco consigue tener su cuerpo completo, se perderá la partida.
+ Para ganar, hay que acertar la palabra antes de que el ahorcado complete su cuerpo, por lo que, 
+se tiene 6 intentos para acertar la palabra secreta.
+
+Dentro de las palabras que se asignan para jugar, se puede escoger el tema sobre el que tratará: arte, tecnología,... 
+en el botón opciones de la pantalla principal.
+En el juego hay una pantalla amarilla donde se puede introducir la palabra para resolverla si se cree saber cual es. 
+
+¡¡MUCHA SUERTE Y A JUGAR!!
